@@ -1,0 +1,17 @@
+# Here you can set a plugin prefix:
+prefix: "&3&lxKenClearLag"
+
+# Here you can set the time how long the server should be cleaned:
+clear_timer: 180
+
+# Here you can set the number of seconds when the countdown to clearing items from the ground starts:
+clear_timer_seconds: 16
+
+# Here you can set a countdown message:
+countdown_message: "&8>> &7Items on the ground will be &cremoved &7in&8: &b{SECONDS} &7seconds!"
+
+# Here you can set a message when items have already been deleted:
+deleted_message: "&8>> &aItems have been removed from the ground!"
+
+# Plugin information can be turned on/off here:
+plugin_info: true
